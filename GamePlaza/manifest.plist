@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>org.cocos2dx.GameUc62</string>
+				<string>org.cocos2dx.gameuc62</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>游戏乐休闲</string>
+				<string>游戏乐休闲中心</string>
 			</dict>
 		</dict>
 	</array>
