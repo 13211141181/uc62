@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://update.beebeeqq.com:7080/download/Phone/uc62/ios/uc62-mobile.ipa</string>
+					<string>http://update.beebeeqq.com:7080/download/Phone/uc62/ios/gameuc62-mobile.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://update.beebeeqq.com:7080/Update/Phone/uc62/ios/Icon-57.png</string>
+					<string>http://update.beebeeqq.com:7080/download/Phone/uc62/ios/Icon-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://update.beebeeqq.com:7080/Update/Phone/uc62/ios/Icon-512.png</string>
+					<string>http://update.beebeeqq.com:7080/download/Phone/uc62/ios/Icon-512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
